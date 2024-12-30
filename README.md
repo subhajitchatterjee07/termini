@@ -32,5 +32,5 @@ This is a simple Bash script to interact with the Gemini API using a terminal co
 6. Move the Script to Your PATH (Optional for easier usage):
   `sudo mv ai.sh /usr/local/bin/ai`
 7. Get hacky in your terminal with:
-   `ai "your_prompt_here"
+   `ai "your_prompt_here"`
 
